@@ -27,7 +27,7 @@ services:
 
   # php
   php81-service:
-    image: foxmark/php8.2.12-fpm
+    image: foxmark/php8.2.12-fpm:1.0
     container_name: app4-php81-container
     ports:
       - "9000:9000"
