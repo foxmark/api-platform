@@ -1,0 +1,8 @@
+version: '3.8'
+
+#services:
+  # php
+#  php81-service:
+#    container_name: app4-nginx-container
+#    volumes:
+#      - ./docker/php/config/100-xdebug.ini:/usr/local/etc/php/conf.d/100-xdebug.ini
